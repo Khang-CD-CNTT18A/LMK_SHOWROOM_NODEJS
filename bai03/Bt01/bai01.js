@@ -1,3 +1,4 @@
+
 class SinhVien {
     constructor(ma, hoTen, tuoi, diem) {
         this.ma = ma;
@@ -8,11 +9,11 @@ class SinhVien {
 }
 
 const danhSachSinhVien = [
-    new SinhVien("SV01", "Nguyen Van An", 20, 8),
-    new SinhVien("SV02", "Tran Thi Binh", 21, 4),
-    new SinhVien("SV03", "Le Van Cuong", 19, 7),
-    new SinhVien("SV04", "Pham Thi Dung", 20, 5),
-    new SinhVien("SV05", "Hoang Van Em", 22, 3)
+    new SinhVien("SV01", "Lâm Minh Khang", 20, 8),
+    new SinhVien("SV02", "Hà Văn Sâm", 21, 4),
+    new SinhVien("SV03", "Phạm Hoàng Hải", 19, 7),
+    new SinhVien("SV04", "Võ Thành Phúc", 20, 5),
+    new SinhVien("SV05", "Phạm Hoàng Hải", 22, 3)
 ];
 
 const sinhVienDat = danhSachSinhVien.filter(
