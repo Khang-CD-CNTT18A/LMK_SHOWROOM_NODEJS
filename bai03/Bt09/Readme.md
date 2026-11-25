@@ -33,12 +33,12 @@ node bai09.js
 
 ### Anh 1: Ma nguon bai09.js
 
-![alt text](bai03.bt09.1.jpg)
+![Ma nguon bai09.js](bai03.bt09.1.jpg)
 
 ### Anh 2: Ket qua chay chuong trinh
 
-![alt text](bai03.bt09.2.jpg)
+![Ket qua chay chuong trinh](bai03.bt09.2.jpg)
 
 ### Anh 3: Du lieu trong MongoDB Compass
 
-![alt text](bai03.bt09.3.jpg)
+![Du lieu MongoDB Compass](bai03.bt09.3.jpg)
