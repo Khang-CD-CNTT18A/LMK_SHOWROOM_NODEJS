@@ -87,6 +87,9 @@ http://localhost:3000
 ### Kết quả chạy trên Terminal
 ![alt text](bai04.bt01.1.jpg)
 
+### Website sau khi triển khai trên Render
+![alt text](bai04.bt01.8.jpg)
+
 ## 7. Khảo sát dịch vụ hosting miễn phí
 
 | Dịch vụ | Đặc điểm |
@@ -118,3 +121,4 @@ Chưa triển khai.
 ## 9. Kết luận
 
 Qua bài thực hành, em đã biết cách khởi tạo dự án Node.js, cài đặt Express, xây dựng các route, thiết kế giao diện HTML/CSS, xử lý lỗi 404 và tìm hiểu cách triển khai website lên dịch vụ hosting.
+
